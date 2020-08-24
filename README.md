@@ -4,6 +4,8 @@
 ## Sobre
 - Criar uma aplicação em Node.js com TypeScript ainda relacionada à gestão de transações financeiras, mas desta fez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer.
 - [Instruções para o Desafio](docs/Desafio%2006%20-%20Instru%C3%A7%C3%B5es.pdf)
+- [CSV Modelo para Importação](docs/file.csv)
+- [Importando arquivos CSV com Node.js](docs/Importando%20arquivos%20CSV%20com%20Node.js.pdf)
 
 ---
 
