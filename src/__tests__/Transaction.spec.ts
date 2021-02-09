@@ -173,7 +173,8 @@ describe('Transaction', () => {
     expect(response.status).toBe(400);
     expect(response.body).toMatchObject(
       expect.objectContaining({
-        error: expect.any(String),
+        status: 'error',
+        message: expect.any(String),
       }),
     );
   });
