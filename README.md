@@ -13,6 +13,7 @@
 
 #### Dependências de Projeto
 - [@types/csv-parse](https://yarnpkg.com/package/@types/csv-parse)
+- [cors](https://yarnpkg.com/package/cors)
 - [csv-parse](https://yarnpkg.com/package/csv-parse)
 - [dotenv](https://yarnpkg.com/package/dotenv)
 - [express](https://yarnpkg.com/package/express)
@@ -23,6 +24,7 @@
 - [typeorm](https://yarnpkg.com/package/typeorm)
 
 #### Dependências de Desenvolvimento
+- [@types/cors](https://yarnpkg.com/package/@types/cors)
 - [@types/express](https://yarnpkg.com/package/@types/express)
 - [@types/express-serve-static-core](https://yarnpkg.com/package/@types/express-serve-static-core)
 - [@types/jest](https://yarnpkg.com/package/@types/jest)
